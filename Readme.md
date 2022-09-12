@@ -11,13 +11,13 @@
 <hr>
 
 ## Screenshot
-![](./screen-shots/01.png)
-![](./screen-shots/02.png)
-![](./screen-shots/03.png)
-![](./screen-shots/04.png)
-![](./screen-shots/05.png)
-![](./screen-shots/06.png)
-![](./screen-shots/07.png)
+![](./Screen-shots/01.png)
+![](./Screen-shots/02.png)
+![](./Screen-shots/03.png)
+![](./Screen-shots/04.png)
+![](./Screen-shots/05.png)
+![](./Screen-shots/06.png)
+![](./Screen-shots/07.png)
 
 <br>
 
