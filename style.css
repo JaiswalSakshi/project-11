@@ -425,3 +425,185 @@ nav{
     height: 30px;
     margin-left: 2px;
 }
+
+/* responsive */
+@media screen and (max-width: 700px) {
+    nav .logo{
+        margin: 5px -30px;
+    }
+    nav .list-item{
+        display: none;
+    }
+    .button-register button{
+        margin-left: 0px;
+    }
+    /* first section */
+    .first-section{
+        display: grid;
+        grid-template-columns: 1fr;
+        margin-top: 10px;
+    }
+    .contain1{
+        margin-left: 50px;
+        margin-top: 10px;
+        width: 70%;
+    }
+    .contain1 h1{
+        font-size: 30px;
+        width: 100%;
+    }
+    .img-one img{
+        height: 40vh;
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+    /* second section */
+    .second-section{
+        display: grid;
+        grid-template-columns: 1fr;
+        margin-top: 10px;
+    }
+    .contain2{
+        margin-left: 50px;
+        margin-top: 10px;
+        width: 70%;
+    }
+    .contain2 h1{
+        font-size: 30px;
+        width: 100%;
+    }
+    .img-two img{
+        height: 40vh;
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+    /* third section */
+    .third-section{
+        display: grid;
+        grid-template-columns: 1fr;
+        margin-top: 10px;
+    }
+    .contain3{
+        margin-left: 50px;
+        margin-top: 10px;
+        width: 70%;
+    }
+    .contain3 h1{
+        font-size: 30px;
+        width: 100%;
+    }
+    .img-three img{
+        height: 50vh;
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+    /* fourth section */
+    .fourth-section{
+        display: grid;
+        grid-template-columns: 1fr;
+        width: 90%;
+        margin: 0px 40px;
+    }
+    .fourth-section h1{
+        font-size: 30px;
+        margin-left: 8px;
+    }
+    .fourth-section p{
+        margin-top: 5px;
+    }
+    /* fifth section */
+    .fifth-section{
+        display: grid;
+        grid-template-columns: 1fr;
+        margin-left: 50px;
+        width: 90%;
+    }
+    /* <!-- sixth section --> */
+    .sixth-section{
+        margin-top: 10px;
+        height: 100%;
+    }
+    .sixth-section h1{
+        margin-left: 100px;
+        width: 60%;
+        font-size: 30px;
+    }
+    .six-main-div{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px;
+        width: auto;
+    }
+    .six-divs{
+        margin-left: 100px;
+        width: 50%;
+        margin-bottom: 10px;
+    }
+    /* seven-section */
+    .seven-section p{
+        text-align: center;
+        width: 80%;
+        margin-left: 50px;
+    }
+    /* <!-- eight section --> */
+    .eighth-container{
+        margin-top: 10px;
+    }
+    .eight-section{
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+    .blog{
+        margin-left: 7px;
+    }
+    /* <!-- nine section --> */
+    .nine-section{
+        display: grid;
+        grid-template-columns: 1fr;
+        margin-bottom: 10px;
+    }
+    .contain5{
+        margin-left: 50px;
+        margin-top: 50px;
+        width: 80%;
+    }
+    .contain5 h1{
+        font-size: 30px;
+        width: 100%;
+    }
+    .contain5 p{
+        margin-bottom: 10px;
+    }
+    .register button{
+        margin-bottom: 50px;
+        margin-top: 10px;
+        margin-left: 50px;
+    }
+    /* <!-- footer section --> */
+    .footer-content{
+        display: flex;
+        flex-direction: row;
+        margin-left: 50px;
+        height: 100%;
+    }
+    .footer-items{
+        display: none;
+    }
+    .social{
+        margin-left: 0px;
+    }
+    .social h3{
+        margin-left: 0px;
+    }
+    .social-img{
+        display: flex;
+        flex-direction: row;
+    }
+    .social-img img{
+        height: 30px;
+        margin-left: 2px;
+    }
+    .footer-content{
+        margin-left: 5px;
+    }
+}
